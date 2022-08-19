@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caudilljk
 - 👀 I’m interested in application development.
-  - I am working through project exapmples in ASP.NET in an attempt to create my own information system. 
+  - I am working through project examples in ASP.NET in an attempt to create my own information system. 
 - 🌱 I’m currently pursuing a degree in Business Analytics and Information systems.
   - My degree will be a BBA with dual majors in Business Analytics and Computer Information Systems. 
   - I have one year of school left and hope to graduate in the Spring of 2023. 
